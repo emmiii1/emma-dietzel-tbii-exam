@@ -6,11 +6,11 @@ Instructions to run the generator
 
     Clone my repository in a location of your choice
 
-git clone 
+git clone github.com/emmiii1/emma-dietzel-tbii-exam/blob/main/drawing_idea_generator.py
 
     Change the directory:
 
-cd 
+cd emma-dietzel-tbii-exam
 
     Run the code
 
